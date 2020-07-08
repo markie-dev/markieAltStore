@@ -9,7 +9,7 @@
         "subtitle": "The most advanced jailbreaking tool. iOS 11.0 - 13.5",
         "version": "5.2.1",
         "versionDate": "2020-07-8T12:00:00-00:00",
-        "versionDescription": "Fix bugs in the device compatibility manager\n\nFix patchfinder initialization for A7-A8 devices\n\nAllow jailbreaking with corrupted /tmp directory",
+        "versionDescription": "Fix bugs in the device compatibility manager\n\nFix patchfinder initialization for A7-A8 devices\n\nAllow jailbreaking with corrupted /tmp directory\n\nFix a logic bug to improve performance",
         "downloadURL": "https://www.unc0ver.dev/downloads/5.2.1/unc0ver_5.2.1.ipa",
         "localizedDescription": "unc0ver is a jail​break, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nThis source is unoffical however the download link to the ipa is the offical github download.\n\nAll unc0ver credit to pwn20wnd",
         "iconURL": "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/unc0vericon.jpg",
