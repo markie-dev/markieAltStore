@@ -1,0 +1,42 @@
+{
+    "name": "markie source",
+    "identifier": "science.xnu.undecimus",
+    "apps": [
+      {
+        "name": "unc0ver",
+        "bundleIdentifier": "science.xnu.undecimus",
+        "developerName": "pwn20wnd",
+        "subtitle": "The most advanced jailbreaking tool. iOS 11.0 - 13.5",
+        "version": "5.2.1",
+        "versionDate": "2020-07-8T12:00:00-00:00",
+        "versionDescription": "Fix bugs in the device compatibility manager\n\nFix patchfinder initialization for A7-A8 devices\n\nAllow jailbreaking with corrupted /tmp directory",
+        "downloadURL": "https://www.unc0ver.dev/downloads/5.2.1/unc0ver_5.2.1.ipa",
+        "localizedDescription": "unc0ver is a jail​break, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nThis source is unoffical however the download link to the ipa is the offical github download.\n\nAll unc0ver credit to pwn20wnd",
+        "iconURL": "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/unc0vericon.jpg",
+        "tintColor": "#8c8c8c",
+        "size": 345885912,
+        "screenshotURLs": [
+          "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/screen1.png",
+          
+          "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/screen2.PNG",
+  
+          "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/screen3.PNG"
+        ]
+      }
+    ],
+    "news": [
+      {
+        "title": "unc0ver",
+        "identifier": "unc0ver-news",
+        "caption": "The most advanced jailbreaking tool. iOS 11.0 - 13.5",
+        "tintColor": "#8c8c8c",
+        "imageURL": "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/background.jpg",
+        "appID": "science.xnu.undecimus",
+        "date": "2020-07-08",
+        "notify": true
+      }
+    ],
+    "userInfo": {
+  
+    }
+  }
