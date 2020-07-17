@@ -22,6 +22,27 @@
   
           "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/screen3.PNG"
         ]
+      },
+      {
+        "name": "Odyssey",
+        "bundleIdentifier": "org.coolstar.odyssey",
+        "developerName": "Coolstar",
+        "subtitle": "A new jailbreak for a new era.",
+        "version": "leaked",
+        "versionDate": "2020-07-15T06:10:00-00:00",
+        "versionDescription": "leaked thimstar version",
+        "downloadURL": "https://github.com/markie-dev/markieAltStore/raw/master/ipas/star.ipa",
+        "localizedDescription": "Odyssey comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Odyssey also comes equipped with full libhooker support, so speed and reliabilty are ensured.",
+        "iconURL": "https://theodyssey.dev/assets/images/icon.png",
+        "tintColor": "#ffa4ac",
+        "size": 345885912,
+        "screenshotURLs": [
+          "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/screen1.png",
+          
+          "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/screen2.PNG",
+  
+          "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/screen3.PNG"
+        ]
       }
     ],
     "news": [
@@ -33,6 +54,16 @@
         "imageURL": "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/background.jpg",
         "appID": "science.xnu.undecimus",
         "date": "2020-07-08",
+        "notify": true
+      },
+      {
+        "title": "Odyssey",
+        "identifier": "odyssey-news",
+        "caption": "A new jailbreak for a new era.",
+        "tintColor": "#ffa4ac",
+        "imageURL": "https://theodyssey.dev/assets/images/icon.png",
+        "appID": "org.coolstar.odyssey",
+        "date": "2020-07-15",
         "notify": true
       }
     ],
